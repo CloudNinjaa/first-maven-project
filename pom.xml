@@ -6,6 +6,7 @@
 
   <groupId>com.democompany</groupId>
   <artifactId>first-demo-project</artifactId>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>first-demo-project</name>
